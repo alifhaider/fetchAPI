@@ -1,0 +1,14 @@
+* {
+  padding: 30;
+  margin: 30;
+  box-sizing: border-box;
+}
+
+.navbar {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
